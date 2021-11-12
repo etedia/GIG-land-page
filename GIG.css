@@ -1,0 +1,273 @@
+
+
+.fa-blog{
+    margin-left:80px;
+  
+
+}
+
+#logtop{
+    margin-top: -5px;
+    margin-left: 60px;
+    font-size:20px;
+  margin-bottom: -5%;
+}
+
+.navbar{
+    margin-left: 280px;
+   /* margin-top: -80px; */
+    font-size: 30px;
+   
+}
+
+ .navbar li{
+     display: inline; 
+    
+ }
+ 
+   ul.navbar > li > a {
+      text-decoration: none;
+      padding: 10px;
+      color: black
+   } 
+
+   
+
+#signtop{
+    float: right;
+    margin-right: 50px;
+    margin-top: -60px;
+    height: 40px;
+    width: 130px;
+    color: white;
+    background-color: brown;
+    border: none;
+}
+
+.navpage{
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    margin-top: -100px;
+    padding-top: 140px;
+}
+
+ .mainpage{
+     background-color:lightcyan;
+     /* background-image: url('img-GIG.jpg');  */
+     padding-top: 10%;
+     height: 1100%;
+ }
+
+ .topic{
+     text-align: center;
+     padding-top: 30px;
+    
+ }
+ .topic p{
+     font-size: 30px;
+ }
+
+ #pix{
+     padding-left: 60px;
+ }
+
+.righttext{
+    text-align: right;
+}
+#rightp1{
+    float: right;
+    color: black;
+    width: 700px;
+    height: 200px;
+    font-size: 20px;
+   margin-top: -410px;
+    margin-right: 20px;
+    border: white;
+    text-align: left;
+    
+}
+#rightp2{
+    float: right;
+    color: black;
+    width: 700px;
+    height: 200px;
+    font-size: 20px;
+   margin-top: -250px;
+    margin-right: 20px;
+    border: white;
+    text-align: left;
+}
+#rightp3{
+    float: right;
+    color: black;
+    width: 700px;
+    height: 100px;
+    font-size: 20px;
+   margin-top: -150px;
+    margin-right: 20px;
+    border: white;
+    text-align: left;
+}
+#rightbutton{
+    color: black;
+    width: 200px;
+    height: 45px;
+    font-size: 15px;
+    margin-right: 500px;
+    margin-top: -100%;
+    border: white;
+    text-align: center;
+    background-color: brown;
+}
+
+
+  #middleheader{
+      text-align: center;
+      margin: 110px 20px 20px 20px;
+  }
+
+  
+ .dedication{
+    display: flex;
+    margin-top: 100px;
+ }
+
+  .downtext1{
+    color: black;
+     width: 500px;
+    height: 300px;
+    margin: 10px 50px 0px 50px;
+    padding-top: 20px;
+    font-size: 15px;
+    border: white;
+    text-align: center;
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow:         3px 3px 5px 6px #ccc;
+  }
+
+  .downtext2{
+    color: black;
+    width: 500px;
+   height: 300px;
+   margin: 10px 50px 0px 50px;
+   padding-top: 20px;
+   font-size: 15px;
+   border: white;
+   text-align: center;
+   -moz-box-shadow:    3px 3px 5px 6px #ccc;
+   -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+   box-shadow:         3px 3px 5px 6px #ccc;
+  }
+  .downtext3{
+    color: black;
+    width: 500px;
+   height: 300px;
+   margin: 10px 50px 0px 50px;
+   padding-top: 20px;
+   font-size: 15px;
+   border: white;
+   text-align: center;
+   -moz-box-shadow:    3px 3px 5px 6px #ccc;
+   -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+   box-shadow:         3px 3px 5px 6px #ccc;
+   
+  }
+
+
+  .dedication2{
+    display: flex;
+    margin-top: 100px;
+  }
+
+  .downtext4{
+     color: black;
+     width: 500px;
+    height: 300px;
+    margin: 10px 50px 40px 50px;
+    padding-top: 20px;
+    font-size: 15px;
+    border: white;
+    text-align: center;
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow:         3px 3px 5px 6px #ccc;
+  }
+
+  .downtext5{
+    color: black;
+     width: 500px;
+    height: 300px;
+    margin: 10px 50px 40px 50px;
+    padding-top: 20px;
+    font-size: 15px;
+    border: white;
+    text-align: center;
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow:         3px 3px 5px 6px #ccc;
+  }
+
+  .downtext6{
+    color: black;
+     width: 500px;
+    height: 300px;
+    margin: 10px 50px 40px 50px;
+    padding-top: 20px;
+    font-size: 15px;
+    border: white;
+    text-align: center;
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow:         3px 3px 5px 6px #ccc;
+  }
+
+  .bottom{
+    display: flex;
+   padding-top: 100px;
+    background-color: black;
+  }
+
+  .bottom p{
+      text-align: left;
+      width: 300px;
+      color: white;
+      margin-left: 40px;
+     
+  }
+
+  .bottom1{
+    width: 500px;
+    height: 300px;
+    margin: -20px 50px 40px 50px;
+    padding-top: 20px;
+    font-size: 15px;
+    border: white;
+    text-align: left;
+    color: white;
+    
+  }
+  
+  .bottom2{
+    width: 500px;
+    height: 300px;
+    margin: -20px 50px 40px 50px;
+    padding-top: 20px;
+    font-size: 15px;
+    border: white;
+    color: white;
+   
+  }
+
+  .bottom3{
+    width: 500px;
+    height: 300px;
+    margin: -20px 20px 40px 20px;
+    /* padding-top: 20px; */
+    font-size: 15px;
+    border: white;
+    color: white;
+  
+   
+  }
